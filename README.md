@@ -3,7 +3,7 @@
 successfully completed with the highest possible grade
 ([certificate](https://lab.karpov.courses/certificate/d22be6be-aa1f-4f8a-a6f0-8dc4546b11de/en/)).*
 
-# Study of recommender systems. 
+# Study of recommender systems
 Some of the assignments completed as a part of "Recommender systems" module of [HardML](https://karpov.courses/ml-hard) course by [karpov.courses](https://karpov.courses/).
 
 ## Content
